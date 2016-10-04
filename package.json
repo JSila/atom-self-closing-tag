@@ -1,0 +1,17 @@
+{
+  "name": "self-closing-tag",
+  "main": "./lib/main",
+  "version": "0.1.0",
+  "description": "Deletes closing HTML tag if you self-close the corresponding opening tag.",
+  "keywords": [
+    "html",
+    "tag",
+    "self",
+    "close"
+  ],
+  "repository": "https://github.com/JSila/atom-self-closing-tag",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
