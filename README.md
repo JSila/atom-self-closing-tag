@@ -4,7 +4,7 @@ Plugin for Atom code editor which deletes closing HTML tag if you self-close the
 
 Does not support multiple cursors.
 
-![How to use](screenshot.gif)
+![How to use](https://cloud.githubusercontent.com/assets/1804602/19094094/a69a7bce-8a8e-11e6-8a0b-ca1f5572a292.gif)
 
 ## Known issues with other atom plugins
 
