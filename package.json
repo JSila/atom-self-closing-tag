@@ -1,7 +1,7 @@
 {
   "name": "self-closing-tag",
   "main": "./lib/main",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Deletes closing HTML tag if you self-close the corresponding opening tag.",
   "keywords": [
     "html",
